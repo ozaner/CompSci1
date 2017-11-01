@@ -1,5 +1,5 @@
 # CompSci1
-####Source Code from Intro to Computer Science 1
+#### Source Code from Intro to Computer Science 1
 Code examples and projects made in my 9th Grade Computer Science 1 Semester class.
 
 Coded in **Java SE 8** with:
